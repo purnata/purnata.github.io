@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body id="home">
+    <div class="ui masthead segment">
+      <div class="ui page grid">
+        <div class="column">
+          {% include menu.html %}
+        </div>
+      </div>
+    </div>
+
+    <div class="ui segment">
+      <div class="ui centered page grid">
+        <div class="fourteen wide column">
+          <div class="column">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% include social.html %}
+
+    {% include footer.html %}
+  </body>
+
+</html>

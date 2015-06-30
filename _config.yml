@@ -1,0 +1,14 @@
+# Site settings
+title: Purnata
+email: purnata.org@gmail.com
+description: "Purnata"
+baseurl: ""
+url: "/"
+twitter_username: "PurnataOrg"
+github_username:  "purnata"
+
+# Build settings
+markdown:  kramdown
+permalink: "/news/:year/:month/:title"
+paginate:  10
+paginate_path: "/news/page:num/"
