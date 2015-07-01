@@ -19,12 +19,17 @@ html {
   display: none;
 }
 
+.ui.red.button, .ui.inverted.red.segment {
+  background-color: #d51243 !important;
+}
+
 /*--------------
     Masthead
 ---------------*/
 
 #home .masthead {
   background-image: url(/assets/images/background.jpg);
+  background-size: cover;
   margin: 0em;
   padding: 5rem 0rem;
 }
