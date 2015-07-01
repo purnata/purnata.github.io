@@ -23,6 +23,13 @@ html {
   background-color: #d51243 !important;
 }
 
+.ui.menu .header.item {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.ui.menu .header.item:before {
+  width: 0px;
+}
 /*--------------
     Masthead
 ---------------*/
