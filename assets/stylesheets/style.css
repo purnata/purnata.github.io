@@ -5,12 +5,16 @@
 html {
   font-size: 14px;
 }
-
+html, body {
+  height: 100%;
+}
+body {
+  background-color: #ffffff;
+}
 
 /*******************************
             Global
 *******************************/
-
 #home .menu .right.menu {
   padding: 8px;
 }
@@ -28,8 +32,13 @@ html {
 }
 
 .ui.menu .header.item:before {
-  width: 0px;
+  width: 0;
 }
+
+.ui.segment {
+  margin: 0;
+}
+
 /*--------------
     Masthead
 ---------------*/
@@ -109,6 +118,15 @@ html {
   padding: 3rem 0rem;
 }
 
+.wrapper {
+  min-height: 100%;
+  height: auto !important; /* ie6 */
+  height: 100%;
+  margin: 0 auto -244px; /* .height of .footer + .social */
+}
+.push {
+  height: 244px; /* .height of .footer + .social */
+}
 
 /*******************************
           Responsive
