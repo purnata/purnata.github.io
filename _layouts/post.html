@@ -3,25 +3,25 @@ layout: master
 ---
 
 <h4>{{ page.title | upcase }}</h4>
-<small>
-  <a class="ui small text" href="/archives/">{{ page.date | date: "%B %-d, %Y" }}</a>
-</small>
+
+<div class="ui basic segment">
+  <span><i class="calendar icon"></i>{{ page.date | date: "%b %-d, %Y" }}</span>
+  &emsp;
+  {% if page.author %}
+    <span><i class="user icon"></i>{{ page.author }}</span>
+  {% endif %}
+  &emsp;
+  {% if page.categories %}
+    <span><i class="tags icon"></i>{{ page.categories | array_to_sentence_string }}</span>
+  {% endif %}
+</div>
 
 <div class="ui stacked segment">
   {{ content }}
 </div>
 
-<div class="ui basic segment">
-  <span><i class="clock icon"></i>{{ page.date | date: "%b %-d, %Y" }}</span>
-  &emsp;
-  {% if page.author %}
-    <span><i class="write icon"></i>{{ page.author }}</span>
-  {% endif %}
-  &emsp;
-  {% if page.categories %}
-    <span><i class="bookmark icon"></i>{{ page.categories | array_to_sentence_string }}</span>
-  {% endif %}
-</div>
+<br />
+<br />
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
