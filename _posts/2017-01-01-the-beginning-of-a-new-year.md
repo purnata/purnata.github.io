@@ -11,7 +11,7 @@ It’s now the beginning of a new year. It’s also, about two months since my f
 
 New Years are good times to Introspect, to look back thank God for what He has accomplished through us and leave behind some things for other things. It’s also a good time to Prospect too to look forward, do course corrections and recommit to God’s bigger plan and purpose.
 
-#####Introspect:
+##### Introspect:
 
 We did amazing programs and made wonderful connections. We achieved a lot as a young organization in only its third year.
 
@@ -33,7 +33,7 @@ We did amazing programs and made wonderful connections. We achieved a lot as a y
 * Most of all we trusted God for our ever-increasing financial needs month by month and came through humbler just to see how amazingly God surprised us and provided, never letting us down.
 
 
-#####Prospect
+##### Prospect
 * The cleaning drive has just begun. In partnership with Upasana (partner NGO) we intend to overcome the hurdles we face from the gala owners and the mentality of the women to get the Red Light Area to be a cleaner, brighter and better place. We intend the light to drive away darkness.
 * We want many more women to leave the life of misery and hopelessness to enter into a life of hope and joy and peace. We want to recommit ourselves for that this coming year – to do whatever it takes.
 * We will not be satisfied with small goals. We set our eyes on seeing an end to all form of exploitation and human trafficking in the red light area we serve. We dream of seeing a place where there is hope and zero trafficking of any kind.
