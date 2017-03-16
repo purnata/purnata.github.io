@@ -18,8 +18,8 @@ A friend immediately responded taking care of Milika’s education and sent acro
 With a bright face and great joy she has returned to school, once again getting an opportunity into a brighter tomorrow and have her childhood restored. Thanks to our dear friend, like whom many help us make dreams and desires of many stories like Milika's come true.
 
 Follow us on:-
-[Purnata Facebook Page](https://www.facebook.com/PurnataOrg/), 
-[Twitter](https://twitter.com/PurnataOrg), 
-[Google +](https://plus.google.com/+PurnataIndia),  
-[Youtube](https://www.youtube.com/user/PurnataOrg), 
-[Instagram](https://www.instagram.com/endtrafficking/)
+- [Purnata Facebook Page](https://www.facebook.com/PurnataOrg/), 
+- [Twitter](https://twitter.com/PurnataOrg), 
+- [Google +](https://plus.google.com/+PurnataIndia),  
+- [Youtube](https://www.youtube.com/user/PurnataOrg), 
+- [Instagram](https://www.instagram.com/endtrafficking/)
