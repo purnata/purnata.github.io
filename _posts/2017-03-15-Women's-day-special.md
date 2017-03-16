@@ -25,7 +25,7 @@ Click, read, watch, contribute, share and watch out for more updates in our news
 #### Please go through the short video below to know more about our campaign with Humans of Bombay.
 
 > <iframe width="480" height="270" src="https://youtu.be/I0kdB5HzFq8" frameborder="0" allowfullscreen></iframe>
-[![Little red ridning hood](https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/24000/24463/image/7ed0d7e2047d1ce07f2852845ae91ad88bc425b1.png)](https://youtu.be/I0kdB5HzFq8"Womens Day 2017 - Click to Watch!")
+[![Little red ridning hood](https://youtu.be/I0kdB5HzFq8)](https://youtu.be/I0kdB5HzFq8"Womens Day 2017 - Click to Watch!")
 
 Follow us on:-
 [Purnata Facebook Page](https://www.facebook.com/PurnataOrg/)
