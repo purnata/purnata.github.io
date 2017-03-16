@@ -25,8 +25,8 @@ Click, read, watch, contribute, share and watch out for more updates in our news
 #### Please go through the short video below to know more about our campaign with Humans of Bombay.
 
 <a href="https://youtu.be/I0kdB5HzFq8
-" target="_blank"><img src="https://youtu.be/I0kdB5HzFq8?t=20" 
-alt="IMAGE ALT TEXT HERE" width="270" height="180" border="10" /></a>
+" target="_blank"><img src="https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/24000/24463/image/7ed0d7e2047d1ce07f2852845ae91ad88bc425b1.png" 
+alt="https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/24000/24463/image/7ed0d7e2047d1ce07f2852845ae91ad88bc425b1.png" width="270" height="180" border="10" /></a>
 
 Follow us on:-
 [Purnata Facebook Page](https://www.facebook.com/PurnataOrg/)
