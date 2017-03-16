@@ -7,9 +7,6 @@ categories: news thoughts
 tags:
 ---
 
-## Women's Day Special
-
-
 On March 8th, 'Women' were celebrated worldwide.
 
 At Purnata we celebrated the women we work with who have broken dreams, a sense of worthlessness and shunned by society.
@@ -22,15 +19,6 @@ Click, read, watch, contribute, share and watch out for more updates in our news
 
 #### [Ketto Campaign](http://ket.to/womensday)
 
-#### Please go through the short video below to know more about our campaign with Humans of Bombay.
+**Please go through the short video below to know more about our campaign with Humans of Bombay.**
 
-<a href="https://youtu.be/I0kdB5HzFq8
-" target="_blank"><img src="https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/24000/24463/image/7ed0d7e2047d1ce07f2852845ae91ad88bc425b1.png" 
-alt="https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/24000/24463/image/7ed0d7e2047d1ce07f2852845ae91ad88bc425b1.png" width="270" height="180" border="10" /></a>
-
-Follow us on:-
-[Purnata Facebook Page](https://www.facebook.com/PurnataOrg/)
-[Twitter](https://twitter.com/PurnataOrg) 
-[Google +](https://plus.google.com/+PurnataIndia) 
-[Youtube](https://www.youtube.com/user/PurnataOrg) 
-[Instagram](https://www.instagram.com/endtrafficking/)
+<iframe width="480" height="270" src="https://www.youtube.com/embed/I0kdB5HzFq8" frameborder="0" allowfullscreen></iframe>
